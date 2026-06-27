@@ -1,0 +1,88 @@
+{
+  "tips": [
+    {
+      "id": 1,
+      "category": "Hygiene",
+      "title": "Cleaning Around the Stoma",
+      "summary": "Proper cleaning technique to prevent infection and skin irritation.",
+      "details": "Use warm water and a soft cloth or gauze to gently clean the skin around your stoma. Avoid soaps with oils, perfumes, or lotions as these can prevent your pouch from sticking properly. Pat the skin dry — do not rub. Always clean in a circular motion moving away from the stoma opening."
+    },
+    {
+      "id": 2,
+      "category": "Hygiene",
+      "title": "Changing Your Pouch",
+      "summary": "When and how to safely change your colostomy pouch.",
+      "details": "Change your pouch every 3–5 days, or immediately if you notice leaking, odor, or skin irritation. The best time to change is in the morning before eating or drinking. Empty the pouch when it is one-third full to prevent leaks and stress on the seal."
+    },
+    {
+      "id": 3,
+      "category": "Hygiene",
+      "title": "Using the StomaWell Table",
+      "summary": "Step-by-step guide for using your StomaWell table during pouch changes.",
+      "details": "Set up your StomaWell table on a flat, stable surface before beginning. Lay out all supplies beforehand: new pouch, skin barrier, warm water, gauze, and disposal bag. The table's recessed tray keeps supplies organized and the raised lip prevents items from rolling off. Clean and wipe down the table surface after each use with a mild disinfectant."
+    },
+    {
+      "id": 4,
+      "category": "Safety",
+      "title": "Recognizing Warning Signs",
+      "summary": "Symptoms that require prompt medical attention.",
+      "details": "Contact your healthcare provider if you notice: no output from your stoma for more than 4–6 hours (especially with cramping or nausea), bright red bleeding that does not stop, the stoma turning dark purple or black, severe pain around the stoma site, or signs of infection such as swelling, warmth, or unusual discharge."
+    },
+    {
+      "id": 5,
+      "category": "Safety",
+      "title": "Preventing Skin Breakdown",
+      "summary": "How to protect the peristomal skin from damage.",
+      "details": "Skin breakdown is the most common complication for stoma users. Always ensure your skin barrier is cut to fit within 1/8 inch of the stoma edge. Check your skin every time you change your pouch for redness, rash, or raw areas. Use a stoma powder on weeping or broken skin before applying a new barrier."
+    },
+    {
+      "id": 6,
+      "category": "Safety",
+      "title": "Lifting and Physical Activity",
+      "summary": "Safe activity guidelines to avoid hernia or injury.",
+      "details": "Avoid lifting objects heavier than 10 lbs for at least 6 weeks after surgery. When resuming activity, wear a stoma support belt during exercise. Swimming is generally safe — waterproof pouches are available. Always consult your doctor before returning to contact sports or heavy physical labor."
+    },
+    {
+      "id": 7,
+      "category": "Equipment",
+      "title": "Choosing the Right Pouch",
+      "summary": "Understanding the difference between one-piece and two-piece systems.",
+      "details": "One-piece systems combine the skin barrier and pouch into a single unit — they are lower profile and easier to apply. Two-piece systems use a separate barrier wafer and pouch that snap together, allowing you to change the pouch without removing the barrier. Two-piece systems are easier on the skin for frequent changes. Your stoma nurse can help you find the right fit for your stoma shape and size."
+    },
+    {
+      "id": 8,
+      "category": "Equipment",
+      "title": "Cutting Your Skin Barrier",
+      "summary": "How to measure and cut your barrier wafer for a proper fit.",
+      "details": "Measure your stoma using the measuring guide included with your pouch supplies. Stomas can change size, especially in the first 6–8 weeks after surgery. Trace the correct size onto the back of your skin barrier and cut with small curved scissors for a clean edge. A proper fit prevents effluent from contacting your skin and causing irritation."
+    },
+    {
+      "id": 9,
+      "category": "Equipment",
+      "title": "Storing Your Supplies",
+      "summary": "Best practices for keeping your pouching supplies in good condition.",
+      "details": "Store pouches and skin barriers at room temperature, away from direct sunlight and humidity. Heat and moisture can degrade the adhesive before use. Do not store supplies in your car or near a window. Keep at least a 2-week supply on hand at all times to avoid running out during reorder delays."
+    },
+    {
+      "id": 10,
+      "category": "Routine",
+      "title": "Building a Daily Care Routine",
+      "summary": "How to make stoma care a manageable part of your day.",
+      "details": "Consistency makes stoma care easier and reduces anxiety. Pick a set time each day to check your pouch seal and empty if needed. Keep a small travel kit with you containing an extra pouch, wipes, and a disposal bag for emergencies when away from home. Logging your output in a simple journal can help you and your doctor track your progress after surgery."
+    },
+    {
+      "id": 11,
+      "category": "Routine",
+      "title": "Diet and Output Management",
+      "summary": "Foods that affect stoma output and how to manage them.",
+      "details": "Certain foods thicken output (bananas, rice, applesauce, toast) while others loosen it (raw fruits, high-fiber vegetables, spicy foods). Drink at least 8 cups of water per day to stay hydrated and keep output manageable. Introduce new foods one at a time so you can identify any that cause problems. Gas-producing foods like beans, cabbage, and carbonated drinks may increase pouch ballooning."
+    },
+    {
+      "id": 12,
+      "category": "Routine",
+      "title": "Traveling with a Stoma",
+      "summary": "Tips for traveling comfortably and confidently with your stoma.",
+      "details": "When flying, keep all stoma supplies in your carry-on bag — checked bags can be lost or exposed to extreme temperatures. Pack twice the supplies you think you will need. Bring a doctor's note explaining your pouching system in case of security screening. Research hospital locations at your destination in case of emergency. Airport security scanners will not harm your pouch."
+    }
+  ]
+}
