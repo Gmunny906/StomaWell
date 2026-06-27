@@ -4,7 +4,6 @@
         <meta charset="utf-8" />
         <title>Title</title>
         <link href="css/styles.css" rel="stylesheet" />
-        <script src="js/app.js" defer></script>
     </head>
     <body>
         <header>
@@ -14,29 +13,30 @@
             </div>
         </header>
         <nav>
-            <ul>
-                <li><a href="#">Option 1</a></li>
-                <li><a href="#">Option 2</a></li>
-            </ul>
+            <span>Filter by:</span>
+            <button type="button" class"filter-btn active" data-category="All">All</button>
+            <button type="button" class"filter-btn" data-category="Hygiene">Hygiene</button>
+            <button type="button" class"filter-btn" data-category="Safety">Safety></button>
+            <button type="button" class"filter-btn" data-category="Equipment">Equipment></button>
+            <button type="button" class"filter-btn" data-category="Routine">Routine></button>
         </nav>
-        <main>
-            <article>
-                <figure>
-                    <img src="wellness_rock.jpg">
-                </figure>
-                <p>
-                This is an example of the text that is gonna go into this article thing
-                </p>
-            </article>
-                <section>
-                    <h2>Some info for section</h2>
-                    <p>
-                    Some info for this section under the header
-                    </p>
-                </section>
-        </main>
+
+        <div class="page-layout">
+            <main id="loading-msg" id="error-msg" hidden>
+            </main>
+
+            <div id="tips-grid">
+            </div>
+
+            <aside>
+                <h1>My Care List</h1>
+                <ul id="saved-list">
+            </aside>
+        
+        </div>
         <footer>
             <small>&copy; Copyright 2025 StomaWell</small>
         </footer>
+        <script src="js/app.js" defer></script>
     </body>
 </html>
